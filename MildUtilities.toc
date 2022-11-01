@@ -6,4 +6,6 @@
 ## Dependencies: 
 ## SavedVariablesPerCharacter: MildUtilities
 
+NoTalkingHeads.lua
 MildUtilities.lua
+

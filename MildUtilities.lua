@@ -27,6 +27,8 @@ function MildUtilities.OnReady()
 	end
 
 	MildUtilities.CreateUIFrame();
+
+	disableTalkingHead();
 end
 
 function MildUtilities.OnSaving()
